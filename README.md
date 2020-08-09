@@ -1,5 +1,4 @@
-![](https://i.ibb.co/9wxw8K4/Egor-Gnevanov.png)
-
+<img align="center" src="https://i.ibb.co/9wxw8K4/Egor-Gnevanov.png" />
 
 <br/>
 
@@ -15,8 +14,6 @@
 <img align="left" alt="Tomcat" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tomcat-logo.svg/800px-Tomcat-logo.svg.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-
 
 <br/>
 
